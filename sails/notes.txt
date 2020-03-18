@@ -1,0 +1,3 @@
+sails new myproject
+sails generate api myNewApi
+sails lift
